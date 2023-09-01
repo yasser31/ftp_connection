@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+env/
+ftp_test_storage
+internal_network
+ftp_download.log
+
